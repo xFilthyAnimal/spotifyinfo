@@ -2,7 +2,7 @@ var express = require('express'),
   session = require('express-session'),
   passport = require('passport'),
   swig = require('swig'),
-  SpotifyStrategy = require('passport-spotify/index').Strategy;
+  SpotifyStrategy = require('/passport-spotify/index').Strategy;
 
 var consolidate = require('consolidate');
 
