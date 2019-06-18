@@ -6,8 +6,8 @@ var express = require('express'),
 
 var consolidate = require('consolidate');
 
-var appKey = 'bb200fb215c346448b3c34bbccaac25d';
-var appSecret = '0902db0eb5274d4a8f3ec07d3d00d2c8';
+var appKey = 'de44ae8c9a5346449f168454bdf956ec';
+var appSecret = 'cfe3cf054021446b89b057f9ac17b376';
 
 // Passport session setup.
 //   To support persistent login sessions, Passport needs to be able to
